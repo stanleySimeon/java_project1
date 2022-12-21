@@ -6,7 +6,7 @@ I built this project using java and I used the following concepts:
 ```sh
 
 - Classes
-- Objects
+- Methods
 - Polymorphism
 
 ```
