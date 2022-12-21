@@ -3,23 +3,23 @@
 This is my first java project on github and I am very excited to share it with you all.
 I built this project using java and I used the following concepts:
 
-`sh
+```sh
 
 - Classes
 - Objects
 - Polymorphism
 
-`
+```
 
 ## How to run the project
 
 - Clone the project to your local machine using the following command:
 
-`sh
+```sh
 
 git clone <https://github.com/stanleySimeon/java_project1.git>
 
-`
+```
 
 - Open the project in your favorite IDE
 - Run the project
@@ -28,36 +28,36 @@ git clone <https://github.com/stanleySimeon/java_project1.git>
 
 - Fork the project
 
-`sh
+```sh
 
 git clone <https://github.com/stanleySimeon/java_project1.git>
 
-`
+```
 
 - Create a new branch
 
-`sh
+```sh
 
 git checkout -b <your_branch_name>
 
-`
+```
 
 - Make your changes
 - Commit your changes
 
-`sh
+```sh
 
 git commit -m "commit message"
 
-`
+```
 
 - Push to the branch
 
-`sh
+```sh
 
 git push origin <your_branch_name>
 
-`
+```
 
 - Open a pull request
 
